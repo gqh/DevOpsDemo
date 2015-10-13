@@ -1,6 +1,6 @@
 
 public class Foo {
-	
+	// changed
 	public static void main (String [] arg){
 		
 		int x = 30;
