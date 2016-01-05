@@ -1,7 +1,7 @@
 package com.java.demo;
 
 public class Foo {
-	// changed
+	// changed for maven build
 	public static void main (String [] arg){
 		
 		int x = 30;
