@@ -1,4 +1,5 @@
 package com.java.demo;
+
 public class Foo {
 	// changed
 	public static void main (String [] arg){
