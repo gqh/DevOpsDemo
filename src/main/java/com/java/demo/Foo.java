@@ -18,8 +18,7 @@ public class Foo {
 		int a1[] = {1, 3, 14, 2, 4, 18};
 		
 		System.out.println(largestVal(a1));
-		
-		breaks build here...
+				
 	}
 	
 	public static int largestVal( int [] a){
