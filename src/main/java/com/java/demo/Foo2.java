@@ -1,4 +1,4 @@
-package main.java.com.java.demo;
+package com.java.demo;
 
 public class Foo2 {
 
