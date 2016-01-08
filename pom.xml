@@ -9,10 +9,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <version>1</version>  
 
   <scm>
-        <connection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</connection>
-        <url>https://github.com/javaee-samples/javaee7-simple-sample.git</url>
-        <developerConnection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</developerConnection>
-        <tag>v1.5</tag>
+        <connection>scm:git:https://github.com/gqh/DevOpsDemo.git</connection>
+        <url>https://github.com/gqh/DevOpsDemo.git</url>
+        <developerConnection>scm:git:https://github.com/gqh/DevOpsDemo.git</developerConnection>
+      
   </scm>
   
   <build>
