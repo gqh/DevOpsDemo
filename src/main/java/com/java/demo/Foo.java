@@ -4,7 +4,7 @@ public class Foo {
 	// changed for maven build
 	public static void main (String [] arg){
 		
-		int x = 311;
+		int x = 1;
 		
 		if((x % 3)==0 && (x % 5)==0 ) 
 			System.out.println( "foo Bar" );
